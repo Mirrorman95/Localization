@@ -30,7 +30,7 @@
 "Button_Uicache"="아이콘수정";
 "Button_VPN"="VPN";
 "Button_WiFi"="와이파이";
-"Button_DND"="방해금재";
+"Button_DND"="방해금지";
 "Button_Hotspot"="핫스팟";
 "Button_Screenshot"="화면잠금";
 
@@ -63,12 +63,12 @@
 "home_quick_button_clean"="가속";
 
 //Panel
-"panel_remain_time_minutes"="배터리 남음: %d 분";
-"panel_remain_time_minutes_and_hour"="배터리 남음: %d 시 %02d 분";
+"panel_remain_time_minutes"="사용 가능 시간: %d 분";
+"panel_remain_time_minutes_and_hour"="사용 가능 시간: %d 시 %02d 분";
 "panel_apply_button"="상태 적용";
 "panel_apply_noneed"="현재 상태";
 "panel_title"="상태 설정";
-"Button_Backlight_Disable"="남음";
+"Button_Backlight_Disable"="유지";
 
 //Charging
 "charging_view_title"="충전";
@@ -236,7 +236,7 @@
 
 "intelligence_setting_low_battery_setting"="절전";
 "intelligence_setting_low_battery"="절전 사용";
-"intelligence_setting_low_battery_percent"="배터리 남음";
+"intelligence_setting_low_battery_percent"="사용 가능 시간";
 "intelligence_setting_low_battery_footer"="배터리가 얼마 남지 않으면 네트워트를 끕니다.\r\n 전화와 SMS는 영향을 받지 않습니다. ";
 
 "intelligence_setting_sleep_setting"="재우기";
