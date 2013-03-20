@@ -3,6 +3,7 @@
   kBatteryDoctorPro
 
   Translated by DoA(http://offree.net/)
+  Modified: 2013.03.20
   Copyright (c) 2012年 iJinShan. All rights reserved.
 */
 
@@ -59,8 +60,8 @@
 "home_quick_button_clean"="가속";
 
 //Panel
-"panel_remain_time_minutes"="배터리 남은량: %d 분";
-"panel_remain_time_minutes_and_hour"="배터리 남은량: %d 시 %02d 분";
+"panel_remain_time_minutes"="배터리 남음: %d 분";
+"panel_remain_time_minutes_and_hour"="배터리 남음: %d 시 %02d 분";
 "panel_apply_button"="상태 적용";
 "panel_apply_noneed"="현재 상태";
 "panel_title"="상태 설정";
@@ -73,7 +74,7 @@
 "charging_view_time_hour_and_minutes"="%d 시 %02d 분";
 "charging_view_time_minutes"="%d 분";
 "charging_view_time_to_charge"="%@ 남음";
-"charging_view_charging_remain_time"="%@ 남은";
+"charging_view_charging_remain_time"="%@ 남음";
 "charging_view_complete_no_need"="배터리 완충됨,\r\n 충전할 필요 없음.";
 "charging_view_complete_normal"="배터리 중간,\r\n 충전할 수 있음.";
 "charging_view_complete_complete"="배터리 낮음,\r\n 완출할 수 있음.";
@@ -108,7 +109,6 @@
 "history_good_charge"="완전 충전";
 "history_normal_charge"="부분 충전";
 "history_bad_charge"="과충천";
-"today_no_record_description"="This day has not record!";
 
 //detail
 "detail_view_title"="정보";
@@ -152,6 +152,7 @@
 "device_info_voltage"="전압";
 "device_info_bootVoltage"="부팅 전압";
 
+
 "device_info_wifi_mac_add"="MAC 주소";
 "device_info_wifi_ip_add"="IP 주소";
 "device_info_cell_carrier"="네트워크 사업자";
@@ -169,9 +170,6 @@
 "push_to_show_less"="자세히 보려면 아래로 당김";
 "release_to_show_more"="자세히 보려면 놓기";
 "release_to_show_less"="개요를 보려면 놓기";
-
-
-
 //setting
 
 "setting_view_title"="설정";
@@ -188,7 +186,6 @@
 "setting_view_night_slient"="야간 설정";
 
 "setting_view_disturb_description"="충전이 완료되도 \r\n 23:00 부터 7:00까지는 알리지 않습니다.";
-
 "setting_view_other"="키타 설정";
 "setting_view_sound"="탭 소리";
 "setting_view_clear_history"="충전 기록 삭제";
@@ -231,7 +228,7 @@
 
 "intelligence_setting_low_battery_setting"="절전";
 "intelligence_setting_low_battery"="절전 사용";
-"intelligence_setting_low_battery_percent"="배터리 남은량";
+"intelligence_setting_low_battery_percent"="배터리 남음";
 "intelligence_setting_low_battery_footer"="배터리가 얼마 남지 않으면 네트워트를 끕니다.\r\n 전화와 SMS는 영향을 받지 않습니다. ";
 
 "intelligence_setting_sleep_setting"="재우기";
@@ -252,6 +249,7 @@
 "daemon_fail_alert_cancel"="확인";
 "daemon_fail_alert_sendfeedback"="오류 보고";
 
+
 //
 "clean_history_title"="충전 기록 삭제";
 "clean_history_msg_body"="모든 충전 기록을 삭제할까요?";
@@ -266,7 +264,6 @@
 "feed_back_saved"="메일 저장됨";
 "feed_back_faild"="메일 전송 실패";
 
-
 //rank
 "rankview_view_title"="순위";
 "usage_level"="%d 수준";
@@ -280,16 +277,63 @@
 "usage_day_ago"="%d 일전";
 "usage_mah"="%d mAh";
 "usage_left_title_apprank"="앱 이름";
+"usage_right_title_apprank"="수준";
 "rank_24_hours"="   24시";
 "rank_all_records"="     사용";
 "rank_count_start"=" 실행수";
 "rank_time_starttime"="  실행시";
-"rank_close_app"="닫기";
-"rank_uninstall_app"="삭제";
-"usage_right_title_apprank"="수준";
 
 "rank_uninstall_app_title"="\"%@\" 삭제";
 "rank_uninstall_app_body"="\"%@\"를 삭제하면 모든 관련 데이타도 삭제됩니다.";
 "rank_apple_start_count"="%d 번";
 "rank_app_bg_task_flag"="배경";
-"rand_nodate_description"="We are working\r\n You can check it later.";
+"rank_close_app"="닫기";
+"rank_uninstall_app"="삭제";
+
+//clear
+"clean_view_title"="가속도";
+"can_used_disk"="디스크";
+"can_used_memory"="메모리";
+"used_disk_value"="<font color='%@' size=34>%.1f</font><font color='%@' size=20>%@</font><font color='%@' size=10> %@</font>";
+"used_mem_value"="<font color='%@' size=34>%.1f</font><font color='%@' size=20>%@</font><font color='%@' size=10> %@</font>";
+"used_mem_scan_value"="<font color='#6A6A6A' size=14>검색중...</font>";
+
+"can_safari_free"="<font color='%@' size=14>브라우저 캐시(</font> <font color='%@' size=14>%@</font> <font color='%@' size=14>)</font>";
+"safari_free"="<font color='%@' size=14>브라우저 캐시 삭제(</font><font color='%@' size=14>%@</font><font color='%@' size=14>)</font>";
+"can_disk_free"="<font color='%@' size=14><b>%@</b></font>";
+"can_disk_free_title"="공간확보:";
+"disk_free"="<font color='%@' size=14>공간확보:</font>";
+"can_disk_free_value"="<font color='%@' size=16>%@</font> <font color='%@' size=10>%@</font>";
+"can_mem_free"="<font color='%@' size=14><b>%@</b></font>";
+"can_mem_free_title"="메모리 확보:";
+"mem_free"="<font color='%@' size=14>메모리 확보:</font>";
+"can_mem_free_value"="<font color='%@' size=16>%@</font> <font color='%@' size=10>%@</font>";
+"can_speed"="<font color='%@' size=14><b>%@</b></font>";
+"speed_free"="속도:";
+"can_speed_free_title"="가속도:";
+"can_speed_value"="<font color='%@' size=16>%@</font> <font color='%@' size=10>%@</font>";
+"btn_re_clean"="다시 삭제";
+"btn_clean"="삭제";
+
+"scan_item_mem_text"="메모리 검색 중...";
+"scan_item_mem_end_text"="검색 완료";
+"clean_item_mem_result"="확보된 메모리: %.0f%@";
+"clean_item_mem_text"="메모리 확보 중...";
+"clean_item_mem_end_text"="메모리가 확보됨";
+"scan_item_mem"="<font color='%@' size=15>%@</font>";
+"scan_item_disk_text"="임시 파일 검색 중...";
+"clean_item_disk_text"="임시 파일 삭제 중...";
+"clean_item_disk_result"="삭제된 임시 파일: %.0f%@";
+"clean_item_disk_end_text"="임시 파일 삭제됨";
+"scan_item_disk"="<font color='%@' size=15>%@</font>";
+"scan_score_format"="<font color='%@' size=48>%.0f</font>";
+"scan_status_text"="검색 중...";
+"scan_status_end_text"="속도";
+"clean_status_text"="삭제 중...";
+"clean_status_end_text"="속도";
+"scan_status_format"="<font color='%@' size=15>%@</font>";
+"clean_result_text"="<font color='#6A6A6A' size=15>성공,%@ 개선.</font>";
+"clean_btntitle_format"="<font color='#6A6A6A' size=16>속도가 너무 느립니다,지금 가속하세요.</font>";
+"clean_result_info_format"="<font color='#6A6A6A' size=15>%@, %@</font>";
+
+
