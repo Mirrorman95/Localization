@@ -53,18 +53,18 @@ Russian localization by Julian Coleman (lotemkw)
 "Button_More"="более";
 
 
-"Alert_3G_On"="3G On";
-"Alert_3G_Off"="3G Off";
-"Alert_4G_On"="4G On";
-"Alert_4G_Off"="4G Off";
-"Alert_LTE_On"="LTE On";
-"Alert_LTE_Off"="LTE Off";
-"Alert_Airplane_On"="Airplane On";
-"Alert_Airplane_Off"="Airplane Off";
-"Alert_AutoLock_On"="%d minutes"; //"Auto-Lock after %d minutes" doesn't fit.
-"Alert_AutoLock_Off"="Never Auto-Lock";
-"Alert_Bluetooth_On"="Bluetooth On";
-"Alert_Bluetooth_Off"="Bluetooth Off";
+"Alert_3G_On"="3G На";
+"Alert_3G_Off"="3G Выкл";
+"Alert_4G_On"="4G На";
+"Alert_4G_Off"="4G Выкл";
+"Alert_LTE_On"="LTE На";
+"Alert_LTE_Off"="LTE Выкл";
+"Alert_Airplane_On"="Airplane На";
+"Alert_Airplane_Off"="Airplane Выкл";
+"Alert_AutoLock_On"="%d минуты"; //"Auto-Lock after %d minutes" doesn't fit.
+"Alert_AutoLock_Off"="нет автоматической блокировки";
+"Alert_Bluetooth_On"="Bluetooth На";
+"Alert_Bluetooth_Off"="Bluetooth Выкл";
 "Alert_ClearBadge_Count"="Cleared %d badges";
 "Alert_ClearBadge_Empty"="No badges"; //"No badges to be cleared" doesn't fit.
 "Alert_Data_On"="Data On";
