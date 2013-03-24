@@ -51,96 +51,96 @@
 "home_view_minutes"="minutes"; //"minutes"
 "home_view_remained"="restant(e)s";
 "home_view_battery_status"="Statut: %d%%   %@";
-"navation_feedback"="Feedback";
+"navation_feedback"="Commentaires";
 "navation_app_version"="Version";
 "navation_bar_more"="Autres param.";
 "navation_bar_control"="Général"; //"List" makes no sense here.
 "home_view_change_mode"="%@ activé"; //you can do some restructuring of this sentence, though it's fine as-is for now
-"home_view_change_airplane_on"=" preset. Airplane Mode is now turned on, so Phone and Messages cannot be used.";
-"home_view_change_airplane_off"=" preset. Airplane Mode is now turned off, so Phone and Messages can now be used."; //Need to change these 2 lines to comply with the new usage of "preset"
-"home_view_change_data_on"=" preset. Data has now been turned on.";
-"home_view_change_data_off"=" preset. Data has now been turned off.";
-"home_view_change_wifi_on"=" preset. Wi-Fi has now been turned on.";
-"home_view_change_wifi_off"=" preset. Wi-Fi has now been turned off.";
-"home_view_complete_no_need"="No recharge is necessary.";
-"home_view_complete_normal"="You can partially recharge now."; //needs revision, "partially recharge" and "fully recharge" don't make sense. I'll look into the original chinese text later, actually. (why didn't I think of that before)
-"home_view_complete_complete"="You can fully recharge now."; //needs revision
+"home_view_change_airplane_on"=" preset. Mode avion actif, les appels et SMS sont désactivés.";
+"home_view_change_airplane_off"=" preset. Mode avion inactif, les appels et SMS sont fonctionnels."; //Need to change these 2 lines to comply with the new usage of "preset"
+"home_view_change_data_on"=" preset. Données cellulaires actives.";
+"home_view_change_data_off"=" preset. Données cellulaires intactives.";
+"home_view_change_wifi_on"=" preset. Wi-Fi actif.";
+"home_view_change_wifi_off"=" preset. Wi-Fi inactif.";
+"home_view_complete_no_need"="Inutile de recharger.";
+"home_view_complete_normal"="Recharge partielle possible."; //needs revision, "partially recharge" and "fully recharge" don't make sense. I'll look into the original chinese text later, actually. (why didn't I think of that before)
+"home_view_complete_complete"="Recharge complète possible."; //needs revision
 "home_view_mode_changed"="Modifié";
 "home_quick_button_intelligence"="Intelligente"; //could use revision to "energy saving" or similar
 "home_quick_button_clean"="Optimiser"; //better word than "Accelerate"
 
 //Panel
-"panel_remain_time_minutes"="Estimated battery life: %d minutes"; //needs line breaks here
-"panel_remain_time_minutes_and_hour"="Estimated battery life: %d hours and %02d minutes";
-"panel_apply_button"="Apply Preset";
-"panel_apply_noneed"="Current Preset";
-"panel_title"="Presets";
+"panel_remain_time_minutes"="Autonomie estimée: %d minutes"; //needs line breaks here
+"panel_remain_time_minutes_and_hour"="Autonomie estimée: %d heures et %02d minutes";
+"panel_apply_button"="Appliquer le réglage";
+"panel_apply_noneed"="Réglage actuel";
+"panel_title"="Pré-réglages";
 
 //Charging
-"charging_view_title"="Status"; //the left-menu has enough space to display "Charging Status,"" but the text string still gets cut off for some reason. Changed it to just "Status" for now.
-"charging_view_in_statge_1"="High-speed Charging";
-"charging_view_in_statge_2"="Continuation Charging"; //needs revision, "Continuation" charging doesn't make any sense.
-"charging_view_in_statge_3"="Trickle Charging";
-"charging_view_time_hour_and_minutes"="%d hours and %02d minutes until charging completes"; //using "minutes left" also works
-"charging_view_time_minutes"="%d minutes until charging completes";
-"charging_view_time_to_charge"="%@ until charging completes";
-"charging_view_charging_remain_time"="%@ until charging completes";
+"charging_view_title"="Statut"; //the left-menu has enough space to display "Charging Status,"" but the text string still gets cut off for some reason. Changed it to just "Status" for now.
+"charging_view_in_statge_1"="Charge rapide";
+"charging_view_in_statge_2"="Charge continue"; //needs revision, "Continuation" charging doesn't make any sense.
+"charging_view_in_statge_3"="Maintien de la charge";
+"charging_view_time_hour_and_minutes"="Fin de la charge dans %d heures et %02d minutes"; //using "minutes left" also works
+"charging_view_time_minutes"="Fin de la charge dans %d minutes";
+"charging_view_time_to_charge"="Fin de la charge dans %@";
+"charging_view_charging_remain_time"="Fin de la charge dans %@";
 "charging_view_complete_no_need"="The battery is full,\r\n no recharge is necessary.";
 "charging_view_complete_normal"="You can recharge your battery now."; //"battery is medium" is gramatically incorrect, ended up omitting the whole thing. 
 "charging_view_complete_complete"="The battery is low,\r\n you can now recharge your battery.";
 "charging_view_time_to_complete"="Estimated time until charging completes:";
 "charging_view_complete_and_unplug"="Battery is full, please disconnect.";
-"charging_view_statge_1"="High-speed";
-"charging_view_statge_2"="Continuation";
-"charging_view_statge_3"="Trickle";
+"charging_view_statge_1"="Rapide";
+"charging_view_statge_2"="Continue"; // FR:to confirm
+"charging_view_statge_3"="Maintien";
 
 "charging_view_state_1_description"="High-speed Charging: Charges the battery up to 80% capacity at the fastest speed possible."; //"You must continue charging..." isn't... really correct. I'll make further revision later from the Chinese version.
 "charging_view_state_2_description"="Continuation Charging: Charges the battery at a slower speed when it is nearly full to ensure completion."; //again, the word "Continuation"
 "charging_view_state_3_description"="Trickle Charging: Charges the battery to full capacity using a trickle current. This prolongs the life of the battery.";
 
 //history
-"history_view_title"="History";
+"history_view_title"="Historique";
 
-"Mon_"="Mon";
-"Tue_"="Tue";
-"Wed_"="Wed";
-"Thu_"="Thu";
-"Fri_"="Fri";
-"Sat_"="Sat";
-"Sun_"="Sun";
+"Mon_"="Lun";
+"Tue_"="Mar";
+"Wed_"="Mer";
+"Thu_"="Jeu";
+"Fri_"="Ven";
+"Sat_"="Sam";
+"Sun_"="Dim";
 
 "cal_title_datetime_format"="MM yyyy"; //this is USA time scheme
 
-"history_tableview_header_datetime_format"="EEE, MM-dd-yyyy"; //USA scheme
+"history_tableview_header_datetime_format"="EEE, dd-MM-yyyy"; //USA scheme
 "history_good_charge_tip_msg"="This is when you have charged your device from at least 20% capacity, and charged through all three phases. Do this once a month to extend the life of your battery."; //these 3 lines need a longer timeout for the UI popup bubble
 "history_normal_charge_tip_msg"="This is when you have charged the device from above 20% capacity. You may do this whenever it is convenient, as Partial Cycles still prolong the battery's lifespan."; //needs revision
 "history_bad_charge_tip_msg"="Please limit the charging time to 6 hours per charge. Please unplug the power when the battery is full to avoid overcharging.";
 
-"history_good_charge"="Full Cycle";
-"history_normal_charge"="Partial Cycle";
-"history_bad_charge"="Overcharge";
+"history_good_charge"="Cycle complet";
+"history_normal_charge"="Cycle partiel";
+"history_bad_charge"="Surcharge";
 
 //detail
-"detail_view_title"="System";
-"detail_view_battery_title"="Battery";
-"detail_view_system_title"="System";
+"detail_view_title"="Système";
+"detail_view_battery_title"="Batterie";
+"detail_view_system_title"="Système";
 
-"detail_view_device"="Basic Information";
-"detail_view_battery"="Battery Information";
-"detail_view_wifi"="Wi-Fi Network";
-"detail_view_cell"="2G/3G Network";
-"detail_view_system"="System Information";
-"detail_view_hardware"="Hardware Specifications";
+"detail_view_device"="Informations basiques";
+"detail_view_battery"="Informations de la batterie";
+"detail_view_wifi"="Réseau Wi-Fi";
+"detail_view_cell"="Réseau 2G/3G";
+"detail_view_system"="Information système";
+"detail_view_hardware"="Specifications matérielles";
 
-"detial_view_memory_usage"="Memory Usage";
+"detial_view_memory_usage"="Utilisation mémoire";
 
-"detail_view_cpu_usage"="CPU Usage";
+"detail_view_cpu_usage"="Utilisation CPU";
 
-"detail_view_disk"="Storage";
-"detail_view_disk_usage"="Used";
-"detail_view_disk_usage_detail"="%4.1f%% / %4.1fGB used";
-"detail_view_disk_free"="Available";
-"detail_view_disk_free_detail"="%4.1f%% / %4.1fGB available";
+"detail_view_disk"="Stockage";
+"detail_view_disk_usage"="Utilisé";
+"detail_view_disk_usage_detail"="%4.1f%% / %4.1fGB utilisé";
+"detail_view_disk_free"="Libre";
+"detail_view_disk_free_detail"="%4.1f%% / %4.1fGB libre";
 
 "detail_view_last_days"="Last    Days"; //the grammar issue with the number 1 is unavoidable, no matter what you do.
 "detail_view_last"="Last";
