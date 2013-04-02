@@ -328,4 +328,4 @@
 
 "clean_setting"="청소 항목 설정";
 "clean_setting_update"="OTA 소프트웨어 판올림 파일";
-"clean_setting_description"="\"OTA 소프트웨어 판올림 파일\"을 삭제하는 것은 시간이 걸릴 수 있습니다.";
+"clean_setting_description"="\"OTA 소프트웨어 판올림 파일\"을 삭제는 시간이 소요될 수 있습니다.";
