@@ -3,7 +3,6 @@
   kBatteryDoctorPro
 
   Created by bo lin on 12-12-4.
-  Translated by DoA(http://offree.net/)  13-03-20
   Copyright (c) 2012年 iJinShan. All rights reserved.
 */
 
@@ -16,43 +15,43 @@
 "Button_Backlight"="밝기";
 "Button_Bluetooth"="블루투스";
 "Button_ClearBadge"="뱃지제거";
-"Button_Data"="데이타";
-"Button_Flashlight"="플래시";
+"Button_Data"="데이터";
+"Button_Flashlight"="손전등";
 "Button_HomeButton"="홈";
-"Button_KillBackground"="작업삭제";
+"Button_KillBackground"="모든 어플 종료";
 "Button_Location"="위치";
 "Button_Mute"="소리";
-"Button_Reboot"="리부트";
+"Button_Reboot"="재시동";
 "Button_Respring"="리스프링";
 "Button_Rotation"="회전잠금";
 "Button_Shutdown"="끄기";
-"Button_SleepButton"="잠금화면";
+"Button_SleepButton"="재우기";
 "Button_Uicache"="아이콘수정";
 "Button_VPN"="VPN";
 "Button_WiFi"="와이파이";
 "Button_DND"="방해금지";
 "Button_Hotspot"="핫스팟";
-"Button_Screenshot"="화면잠금";
+"Button_Screenshot"="화면잡기";
 
 //Home
 "home_view_title"="전지의사";
 "home_view_title_tabbar"="상태";
-"home_view_mode_outdoor"="외부";
-"home_view_mode_indoor"="내부";
-"home_view_mode_sleep"="알림";
+"home_view_mode_outdoor"="실외";
+"home_view_mode_indoor"="실내";
+"home_view_mode_sleep"="취침";
 "home_view_hour"="시";
 "home_view_minutes"="분";
 "home_view_remained"="사용 가능 시간";
 "home_view_battery_status"="상태 %d%%   %@";
 "navation_feedback"="보고";
-"navation_app_version"="번호";
+"navation_app_version"="정보";
 "navation_bar_more"="기타";
 "navation_bar_control"="목록";
 "home_view_change_mode"="사용: %@";
 "home_view_change_airplane_on"=" 상태, 비행기 모드를 켰습니다. 따라서 폰과 메세지는 사용할 수 없습니다.";
 "home_view_change_airplane_off"=" 상태, 비행기 모드를 껐습니다. 따라서 폰과 메시지를 사용할 수 있습니다.";
-"home_view_change_data_on"=" 상태, 데이타 켜기";
-"home_view_change_data_off"=" 상태, 데이타 끄기";
+"home_view_change_data_on"=" 상태, 데이터 켜기";
+"home_view_change_data_off"=" 상태, 데이터 끄기";
 "home_view_change_wifi_on"=", 와이파이 켜기.";
 "home_view_change_wifi_off"=", 와이파이 켜기.";
 "home_view_complete_no_need"="충전할 필요 없음.";
@@ -106,9 +105,9 @@
 "cal_title_datetime_format"="yyyy년 MM월 ";
 
 "history_tableview_header_datetime_format"="yyyy-MM-dd EEE";
-"history_good_charge_tip_msg"="Less than 20% complete three phase charge, once a month let the standby time more durable.";
-"history_normal_charge_tip_msg"="You can recharge battery whenever convenient, Partial Cycle will be prolong battery lifespan.";
-"history_bad_charge_tip_msg"="Limit recharging time to 6 hours per recharge. Please unplug the power when the battery is full.";
+"history_good_charge_tip_msg"="전원이 20% 이하로 떨어지면 3단계 충전을 완료해 주세요. 한달에 한번 이렇게 충전하면 배터리 대기시간이 더 안정적으로 바뀝니다.";
+"history_normal_charge_tip_msg"="편할 때 언제든지 충전할 수 있습니다. 부분 충전으로 배터리 수명이 연장될 수 있습니다.";
+"history_bad_charge_tip_msg"="6시간 이상 충전하는 것은 좋지 않습니다. 완충되면 전원을 분리하세요.";
 
 "history_good_charge"="완전 충전";
 "history_normal_charge"="부분 충전";
@@ -137,14 +136,14 @@
 "detail_view_disk_free"="사용 가능";
 "detail_view_disk_free_detail"="사용 가능: %4.1f%% %4.1fGB";
 
-"detail_view_last_days"="마지막    일";
-"detail_view_last"="마지막";
+"detail_view_last_days"="최근    일";
+"detail_view_last"="최근";
 "detail_view_health_mah"="수명(mAh) ";
 "detail_view_health"="수명";
 "detail_view_temperature"= "온도";
 "detail_view_cycle"= "주기";
 
-"curve_not_enough_data"="충분한 데이타가 없음";
+"curve_not_enough_data"="충분한 데이터가 없음";
 
 "device_info_model"="장치 모델";
 "device_info_system_version"="운영체제";
@@ -199,9 +198,9 @@
 "setting_view_clear_history"="충전 기록 삭제";
 "setting_view_eula"="개인 정보 보호";
 
-"nc_view_battery_enabled"="상태 사용";
-"nc_view_multi_enabled"="멀티태스킹 사용";
-"nc_view_multiline"="스타일 표시";
+"nc_view_battery_enabled"="상태 막대 사용";
+"nc_view_multi_enabled"="멀티태스킹 막대 사용";
+"nc_view_multiline"="표시 형식";
 "nc_view_one_line"="한줄";
 "nc_view_two_line"="두줄";
 
@@ -244,9 +243,9 @@
 "intelligence_setting_sleep_duration"="재울 시간";
 "intelligence_setting_sleep_out_mode"="깨울 시간";
 
-"intelligence_setting_mode_0"="외부";
-"intelligence_setting_mode_1"="내부";
-"intelligence_setting_mode_2"="마지막";
+"intelligence_setting_mode_0"="실외";
+"intelligence_setting_mode_1"="실내";
+"intelligence_setting_mode_2"="최근";
 
 "To"="-";
 
@@ -284,17 +283,49 @@
 "usage_hour_ago"="%d 시전";
 "usage_day_ago"="%d 일전";
 "usage_mah"="%d mAh";
-"usage_left_title_apprank"="앱 이름";
+"usage_left_title_apprank"="어플 이름";
 "rank_24_hours"="   24시";
 "rank_all_records"="     사용";
-"rank_count_start"=" 실행수";
-"rank_time_starttime"="  실행시";
+"rank_count_start"=" 실행 횟수";
+"rank_time_starttime"="  실행 시간";
 "rank_close_app"="닫기";
 "rank_uninstall_app"="삭제";
 "usage_right_title_apprank"="수준";
 
 "rank_uninstall_app_title"="\"%@\" 삭제";
-"rank_uninstall_app_body"="\"%@\"를 삭제하면 모든 관련 데이타도 삭제됩니다.";
+"rank_uninstall_app_body"="\"%@\"를 삭제하면 모든 관련 데이터도 삭제됩니다.";
 "rank_apple_start_count"="%d 번";
 "rank_app_bg_task_flag"="배경";
-"rand_nodate_description"="We are working\r\n You can check it later.";
+"rand_nodate_description"="작업 중입니다.\r\n 다음에 다시 검사할 수 있습니다.";
+
+
+//clean
+"clean_view_title"="청소";
+"clean_disk_title"="남은 공간";
+"clean_item_title"="청소 항목";
+
+"clean_percentage_not_clean"="대기중";
+"clean_percentage_cleaning"="청소중";
+"clean_percentage_clean_done"="완료됨";
+
+
+"clean_desp_not_clean_yet"="저장 공각 확보를 위해 즉시 청소합니다. ";
+"clean_desp_cleaned"="%@ %@ 개의 필요없는 파일 삭제, %@ 비움";
+"clean_desp_just_cleaned"="%@ 개의 필요없는 파일 삭제, %@ 비움";
+"clean_desp_nothing_clean"="불필요한 파일이 없습니다.";
+
+"clean_button"="청소 시작";
+
+"clean_process_clanning"="청소 중 : %@ ...";
+"clean_process_start_clanning"="청소 시작 ...";
+
+"clean_setting_safari"="Safari 쿠키, 히스토리 & 캐시 파일";
+"clean_setting_cydia"="Cydia 캐시와 임시 파일";
+"clean_setting_logs"="시스템 기록 파일";
+"clean_setting_caches"="시스템 캐시 파일";
+"clean_setting_temporaryfiles"="시스템 임시 파일";
+"clean_setting_applications"="어플의 임시 파일과 불필요한 파일";
+
+"clean_setting"="청소 항목 설정";
+"clean_setting_update"="OTA 소프트웨어 판올림 파일";
+"clean_setting_description"="\"OTA 소프트웨어 판올림 파일\"을 삭제하는 것은 시간이 걸릴 수 있습니다.";
