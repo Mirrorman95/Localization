@@ -10,7 +10,7 @@
 "Button_3G"="3G";
 "Button_4G"="4G";
 "Button_LTE"="LTE";
-"Button_Airplane"="비행기";
+"Button_Airplane"="비행기 모드";
 "Button_AutoLock"="자동잠금";
 "Button_Backlight"="밝기";
 "Button_Bluetooth"="블루투스";
