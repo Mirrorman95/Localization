@@ -184,7 +184,7 @@
 "SOURCE_DETAILS" = "ソースの情報";
 "SOURCE_WARNING" = "ソースの警告";
 "SOURCES" = "ソース";
-"SOURCES_EX" = "ソースの追加・削除が出来ます。";
+"SOURCES_EX" = "ソースの追加／削除が出来ます。";
 "SPONSOR" = "スポンサー";
 "SPONSORING_PRODUCTS" = "スポンサー製品";
 "STATISTICS" = "統計"; /* could be katakanaized into スタティスティックス */
