@@ -113,7 +113,7 @@
 "NETWORK_ERROR" = "ネットワークエラー";
 "NEVER_OR_UNKNOWN" = "決してまたは不明"; /* no idea how correct this is, I don't know the context of it. */
 "NEW" = "新規"; /* believe this is the correct usage (Changes screen?) */
-"NEW_AT" = "更新日時：%@"; /* changed order of this. it's now "modified date:" */
+"NEW_AT" = "更新日時:%@"; /* changed order of this. it's now "modified date:" */
 "NEW_INSTALL" = "新規インストール";
 "NO" = "いいえ";
 "NOTE" = "注意";
@@ -130,7 +130,7 @@
 "PACKAGE_DAMAGED" = "パッケージが壊れています";
 "PACKAGE_DETAILS" = "パッケージの詳細";
 "PACKAGE_QUEUE" = "このパッケージは下記の\n行為をキューから実行できます";
-"PARENTHETICAL" = "%@ (%@)";
+"PARENTHETICAL" = "%@(%@)";
 "PASSWORD" = "パスワード";
 "PERFORM_SELECTIONS" = "選択を行う"; /* needs work */
 "PREPARE_ARCHIVES" = "アーカイブの準備中";
