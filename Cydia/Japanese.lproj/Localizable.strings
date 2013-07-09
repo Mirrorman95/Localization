@@ -1,4 +1,4 @@
-/* 明美（あけみ）／Karen */
+/* 明美(あけみ)／Karen */
 /* amigiri966によって改訂。 */
 "ABOUT" = "アバウト";
 "ABOUT_CYDIA" = "Cydiaインストーラについて";
@@ -63,7 +63,7 @@
 "ESSENTIAL_UPGRADES" = "%d重要なアップグレード";
 "ESSENTIAL_UPGRADE_EX" = "一つ以上の重要なパッケージが無効です。もしこれらのアップグレードが機能しない場合エラーが起こるかもしれません。";
 "EXCLAMATION" = "%@！";
-"EXIT_WHEN_COMPLETE" = "（完了時にCydiaのは終了します。）";
+"EXIT_WHEN_COMPLETE" = "(完了時にCydiaのは終了します。)";
 "EXPANDED_SIZE" = "展開サイズ"; /* fhjkasdhfalksd */
 "EXPERT" = "エキスパート";
 "FAQ" = "よくある質問";
@@ -117,7 +117,7 @@
 "NEW_INSTALL" = "新規インストール";
 "NO" = "いいえ";
 "NOTE" = "注意";
-"NO_SECTION" = "（分類なし）";
+"NO_SECTION" = "(分類なし)";
 "NOT_RATED" = "評価されていません";
 "NOT_REPOSITORY" = "リポジトリが見つかりません";
 "NOT_REPOSITORY_EX" = "指定したリポジトリが存在しません。古いInstallerのリポジトリはサポートされていないため、利用できません。また、Cydiaは正確なURLでないと動作しないため、URLが正しいことを確認してください。もしくはサーバーが停止している場合があるので、時間をおいてもう一度入力してください。";
@@ -130,7 +130,7 @@
 "PACKAGE_DAMAGED" = "パッケージが壊れています";
 "PACKAGE_DETAILS" = "パッケージの詳細";
 "PACKAGE_QUEUE" = "このパッケージは下記の\n行為をキューから実行できます";
-"PARENTHETICAL" = "%@ （%@）";
+"PARENTHETICAL" = "%@ (%@)";
 "PASSWORD" = "パスワード";
 "PERFORM_SELECTIONS" = "選択を行う"; /* needs work */
 "PREPARE_ARCHIVES" = "アーカイブの準備中";
@@ -157,11 +157,11 @@
 "REPOSITORY_SIGNATURE" = "リポジトリの署名を見る";
 "REQUEST_ADVERTISING_SPACE" = "リクエスト広告スペース";
 "REQUIREMENTS_FOR_LISTING" = "上場のための要件";
-"RESTART_SPRINGBOARD" = "SpringBoardをリスタート";
+"RESTART_SPRINGBOARD" = "SpringBoardを再起動";
 "RESUBMIT_FORM" = "あなたは再びこのフォームを送信してもよろしいですか？";
 "RESUMING_AT" = "既にダウンロードした容量"; /* fixed */
 "RETURN_TO_CYDIA" = "Cydiaへ戻る";
-"ROLE_EX" = "Cydia上に存在する全てのパッケージがあなたに提供される訳ではありません。あなたにあったパッケージを提供する為にも3つの内のどれに当たるかを選択して下さい。\n\nこの選択は、「管理」タブ（iPhoneまたはiPod touch上で）、または 「ソース」タブ（iPad上で）の下で「设定」から変更することができます。";
+"ROLE_EX" = "Cydia上に存在する全てのパッケージがあなたに提供される訳ではありません。あなたにあったパッケージを提供する為にも3つの内のどれに当たるかを選択して下さい。\n\nこの選択は、「管理」タブ(iPhoneまたはiPod touch上で)、または 「ソース」タブ(iPad上で)の下で「设定」から変更することができます。";
 "RUNNING" = "実行中";
 "SAFE" = "安全";
 "SAMPLE" = "サンプル";
@@ -193,7 +193,7 @@
 "STORAGE_EX" = "本体フラッシュメモリー内の容量を確認できます。";
 "SUBMIT" = "送信";
 "SUPPORT_KNOWN_ISSUES" = "サポート&既知の問題";
-"TEMPORARY_IGNORE" = "無視（一時的に）";
+"TEMPORARY_IGNORE" = "無視(一時的に)";
 "THANK_YOU" = "ありがとうございます";
 "UNABLE_TO_COMPLY" = "実行できません";
 "UNABLE_TO_COMPLY_EX" = "まだ翻訳されません。This operation requires the removal of one or more packages that are required for the continued operation of either Cydia or iPhoneOS. In order to continue and force this operation you will need to be activate the Advanced mode under to continue and force this operation you will need to be activate the Advanced mode under Settings.";
