@@ -9,7 +9,7 @@
 "ADMINISTRATIVE_INFORMATION" = "管理情報"; /* アドミン (literally "Admin") can be used in place of 管理 (more like "Management"). Left it as 管理 regardless. */
 "ADVANCED_SEARCH" = "高度な検索";
 "ALL_PACKAGES" = "すべてのパッケージ";
-"APPLE" = "アップル"; /* アップル is how most Japanese write it, including Apple themselves sometimes... however, it is okay to leave it as "Apple" if you wish. */
+"APPLE" = "アップル"; /* アップル is how most Japanese write it, including Apple themselves sometimes... however, it is okay to leave it as "Apple." */
 "AUTHOR" = "作者";
 "AVAILABLE_UPGRADES" = "利用できるアップグレード";
 "BROWSER" = "ブラウザ";
