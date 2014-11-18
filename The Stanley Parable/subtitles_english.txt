@@ -244,7 +244,7 @@
                 "narration.lounge_exit_00"                "But eager to get back to business, Stanley took the first open door on his left."
                 "narration.lounge_exit_delay_00"        "But at last he'd had enough of the amazing room, and took the first open door on his left to get back to business."
                 "narration.maintenance_00"                "And so he detoured through the maintenance section, walked straight ahead to the opposite door, and got back on track."
-                "narration.con1-1_00"                        "But Stanley didn't want to back to the office, he wanted to wander about and get even further off track. So now in order to get back, he need to go, um... uh... hm hm hm hm, from here it's, um... left."
+                "narration.con1-1_00"                        "But Stanley didn't want to go back to the office, he wanted to wander about and get even further off track. So now in order to get back, he need to go, um... uh... hm hm hm hm, from here it's, um... left."
                 "narration.con1-2_00"                        "Oh, no. No, it's to the right. My mistake."
                 "narration.con1-3_00"                        "No! No, no, no! Not the right! Why would I have ever said it was to the right? What was I thinking?"
                 "narration.con1-3_01"                        "It's clearly... oh dear, would you hold on for a minute, please? *papers rustling* Now, let's see..."
