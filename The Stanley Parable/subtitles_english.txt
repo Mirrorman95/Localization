@@ -10,8 +10,8 @@
                 //THE STANLEY PARABLE DIALOGUE
                 //LET'S DO THIS
                 "narration.intro_1_00"                        "This is the story of a man named Stanley."
-                "narration.intro_1_01"                        "Stanley worked for a company in a big building where he was Employee 427."
-                "narration.intro_1_02"                        "Employee 427's job was simple: he sat at his desk in room 427 and he pushed buttons on a keyboard."
+                "narration.intro_1_01"                        "Stanley worked for a company in a big building where he was Employee #427."
+                "narration.intro_1_02"                        "Employee #427's job was simple: he sat at his desk in room 427 and he pushed buttons on a keyboard."
                 "narration.intro_1_03"                        "Orders came to him through a monitor on his desk, telling him what buttons to push, how long to push them, and in what order."
                 "narration.intro_1_04"                        "This is what Employee 427 did every day of every month of every year, and although others might have considered it soul rending,"
                 "narration.intro_1_05"                        "Stanley relished every moment that the orders came in, as though he had been made exactly for this job."
