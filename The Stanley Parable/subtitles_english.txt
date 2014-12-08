@@ -276,7 +276,7 @@
                 "narration.con4-1_00"                        "Alright, I've got a solution. This time, to make sure we don't get lost, I've employed the help of The Stanley Parable Adventure Line™! Just follow The Line™; how simple is that!"
                 "narration.con4-1b_00"                        "No, no, I'm done, we're leaving it up to The Line™ from now on."
                 "narration.con4-2_00"                        "You see? The Line™ knows where the story is, it's over in this direction! Onward, Stanley, to destiny!"
-                "narration.con4-2_01"                        "Though, here's a thought: wouldn't whever we end up be our destination, even if there's no story there? Or, to put it another way, is the story of no destination still a story?"
+                "narration.con4-2_01"                        "Though, here's a thought: wouldn't wherever we end up be our destination, even if there's no story there? Or, to put it another way, is the story of no destination still a story?"
                 "narration.con4-2_02"                        "Simply by the act of moving forward are we implying a journey such that a destination is inevitably conjured into being via the very manifestation of the nature of life itself?"
                 "narration.con4-2b_00"                        "Okay, Stanley, I need to follow this train of thought for a minute, just stick with me."
                 "narration.con4-2b_01"                        "Now we can both agree that the nature of existence is, in fact, a byproduct of one's subjective experience of that existence, right?"
